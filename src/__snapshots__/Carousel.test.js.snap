@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match Snapshot 1`] = `
+<DocumentFragment>
+  <h1
+    class="Carousel-title"
+  />
+  <div
+    class="Carousel-main"
+  >
+    <i
+      class="Carousel-left Carousel-hidden"
+      data-testid="left-arrow"
+    >
+      go back
+    </i>
+    <div
+      class="Card"
+    >
+      <h4
+        class="Card-title"
+      >
+        Photo by Richard Pasquarella on Unsplash
+      </h4>
+      <img
+        alt="Photo by Richard Pasquarella on Unsplash"
+        class="Card-image"
+        src="image1.jpg"
+      />
+      <small
+        class="Card-small"
+      >
+        Image1 of 3
+      </small>
+    </div>
+    <i
+      class="Carousel-right "
+      data-testid="right-arrow"
+    >
+      Next one
+    </i>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,27 @@
+.Carousel-title {
+  align-items: center;
+  justify-content: center;
+  margin-left: 25%;
+}
+.Carousel-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Carousel-main > i {
+    cursor: pointer;
+    margin: 10px;
+    color: #aaa;
+}
+.Carousel-main > i:hover {
+    color: black;
+}
+.Carousel-left {
+  font-size: 20px;
+}
+.Carousel-right {
+  font-size: 20px;
+}
+.Carousel-hidden {
+  display: none;
+}
